@@ -14,9 +14,9 @@
 
 **[像素畫教程每週分享](https://github.com/JobYu/Weekly_PixelartTutorials)** — 收集我喜歡的像素畫和像素畫教程。
 
-**[pix32像素字體](https://github.com/JobYu/Pix32)** — 手搓像素字體。
+**[pix32 Pixel Font](https://github.com/JobYu/Pix32)** — 手搓像素字體。
 
-**[個人項目管理](https://github.com/JobYu/monoboards)** — 單HTML文件，零依賴。Trello替代品。
+**[monoboards](https://github.com/JobYu/monoboards)** — 單HTML文件，零依賴。Trello替代品。
 
 
 **[任意遊戲策劃案生成](https://github.com/JobYu/game-design-document)** — 可以將模糊想法變成遊戲策劃案GDD的Skill。
