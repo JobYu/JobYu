@@ -2,7 +2,7 @@
 
 我會寫簡單的HTML5，還有JS。
 
-2024年，借助Cursor，我從一個編程小白，成為 AI Native Coder。
+2024年，借助Cursor，我從一個編程小白，成為 Design Engineer。
 
 ---
 
