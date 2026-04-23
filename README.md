@@ -2,6 +2,8 @@
 
 我會寫簡單的HTML5，還有JS。
 
+我的職業變遷：Design Engineer - Product Designer - UI&UX Designer - Flash Game Artist - Pixel Art Game Artist - Graphic Designer
+
 2024年，借助Cursor，我從一個編程小白，成為 Design Engineer。
 
 ---
